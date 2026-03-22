@@ -1,5 +1,3 @@
 playerids: { 
-awdawdgd2ga4,
-h856h8a234h,
-yu5ims,
+9D10497AEBDDCF77,
 }
